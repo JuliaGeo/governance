@@ -1,6 +1,6 @@
 # Charter for the JuliaGeo Organization
 
-This is the organizational charter for the JuliaGeo Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the JuliaGeo Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members (the "members") agree as follows.
 
 ## 1. Mission
 
