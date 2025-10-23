@@ -28,15 +28,11 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 
 **4.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Steering Committee may vote to remove the member.
 
-## 5. Trademarks
-
-Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
-
-## 7. No Confidentiality
+## 5. No Confidentiality
 
 Information disclosed in connection with any of the Organization's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
 
-## 8. Project Criteria
+## 6. Project Criteria
 
 In order to be eligible to be a Organization project, a project must:
 
@@ -48,7 +44,7 @@ In order to be eligible to be a Organization project, a project must:
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 * Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md) and the [code of conduct](./CODE-OF-CONDUCT.md).
 
-## 9. Amendments
+## 7. Amendments
 
 Amendments to this charter, the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
