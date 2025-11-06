@@ -4,8 +4,14 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+| Alexander Barth | @Alexander-Barth | University of Liége, BE |
+| Anshul Singhvi | @asinghvi17 | JuliaHub, USA |
+| Maarten Pronk | @evetion | Deltares, NL |
+| Felix Cremer | @felixcremer | MPI-BGC, DE |
+| Fabian Gans | @meggart | MPI-BGC, DE |
+| Rafael Schouten | @rafaqz | Univ. of Melbourne, AU |
+| Martijn Visser | @visr | Deltares, NL |
+| Yee Sian Ng | @yeesian | Google, USA |
 
 ---
 Adapted from https://github.com/github/MVG. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
