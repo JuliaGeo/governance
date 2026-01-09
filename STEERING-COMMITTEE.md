@@ -5,6 +5,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | Alexander Barth | @Alexander-Barth | University of Liége, BE |
+| Alex Gardner | @alex-s-gardner | NASA-JPL, USA | 
 | Anshul Singhvi | @asinghvi17 | JuliaHub, USA |
 | Maarten Pronk | @evetion | Deltares, NL |
 | Felix Cremer | @felixcremer | MPI-BGC, DE |
