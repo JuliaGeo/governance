@@ -4,7 +4,12 @@ This is the organizational charter for the JuliaGeo Organization (the "Organizat
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+JuliaGeo is a community of people interested in working with spatial data in Julia. We have various needs and make different contributions to the ecosystem, but collectively we are committed to:
+
+- Developing documented and accessible tools for spatial geometry and raster data manipulation,
+- Providing a coherent workflow linking these tools via adherence to shared interfaces and community standards from both within and outside JuliaGeo,
+- Maintaining software for reading and writing spatial data formats, especially focussed on big data and large workloads,
+- Communicating spatial data workflows from JuliaGeo and the broader geospatial ecosystem, and making them accessible to the wider scientific and spatial data community.
 
 ## 2. Steering Committee
 
