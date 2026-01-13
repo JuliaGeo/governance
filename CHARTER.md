@@ -13,6 +13,8 @@ JuliaGeo is a community interested in effectively and efficiently working with s
 
 JuliaGeo packages should be general to geospatial workflows and should not include e.g. domain specific models.
 
+For example, JuliaGeo should include packages like [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) or [Proj.jl](https://github.com/JuliaGeo/Proj.jl), that wrap commonly used C libraries for their use in computational pipelines for processing spatial data.  But it should not include e.g. a water budgeting tool like [SPAW](https://www.ars.usda.gov/research/software/download/?softwareid=492) - that would be a good user application, but not something that should live in the org.
+
 ## 2. Steering Committee
 
 **2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
